@@ -1,10 +1,10 @@
 require_relative 'spec_helper'
 require_relative '../intro_to_ruby_hashes_lab.rb'
 new_hash={}
-My_hash{id=4}
+My_hash{:id=>4}
   pioneer{:name=> "Grace Hopper"}
-  my_hash_creator{bad:2}
-  read_from_hash
+  my_hash_creator{:bad=>2}
+  read_from_hash{
 describe "working with hashes" do
 
   describe "instantiating" do
