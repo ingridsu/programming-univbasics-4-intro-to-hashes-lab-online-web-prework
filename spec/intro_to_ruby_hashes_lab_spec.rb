@@ -3,7 +3,7 @@ require_relative '../intro_to_ruby_hashes_lab.rb'
 new_hash={}
 My_hash{id=4}
   pioneer{:name=> "Grace Hopper"}
-  my_hash_creator{id=>4
+  my_hash_creator{bad:2}
 describe "working with hashes" do
 
   describe "instantiating" do
