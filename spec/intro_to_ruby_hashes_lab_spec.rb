@@ -5,7 +5,7 @@ My_hash{:id=>4}
   pioneer{:name=> "Grace Hopper"}
   my_hash_creator{:bad=>2}
   read_from_hash{:id=>4,:tree=>2}
-  update_counting_hash
+  update_counting_hash{:name=>Grace Hopper }
 describe "working with hashes" do
 
   describe "instantiating" do
