@@ -4,7 +4,7 @@ new_hash={}
 My_hash{:id=>4}
   pioneer{:name=> "Grace Hopper"}
   my_hash_creator{:bad=>2}
-  read_from_hash{
+  read_from_hash{:id=>4
 describe "working with hashes" do
 
   describe "instantiating" do
